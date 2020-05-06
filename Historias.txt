@@ -8,4 +8,4 @@ NACIONALIDAD    MEXICANO
 esta es mi historia de vida
 
 
-cambiar testos
+cambiar textos
