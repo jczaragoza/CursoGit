@@ -9,3 +9,7 @@ esta es mi historia de vida
 
 
 cambiar textos
+
+
+git log --all --graph --decorate --oneline
+
